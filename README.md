@@ -1,5 +1,11 @@
 # NoOversight - Multi-Agent AI Platform
 
+**Languages:** [English](README.md) · [Русский](README.ru.md)
+
+> **For AI coding assistants:** read [`AGENTS.md`](AGENTS.md) and the [`docs/`](docs/) folder
+> before exploring the source code — they are the single source of truth and prevent blind
+> full-repo walks.
+
 A production-ready platform enabling multiple AI agents (Claude, GPT, Gemini) to collaborate on complex tasks via OpenRouter's unified API. The system uses an intelligent orchestrator to delegate subtasks to specialized agents, synthesizing their responses into coherent solutions.
 
 ## Overview
