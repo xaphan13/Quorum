@@ -18,11 +18,11 @@ redis==5.1.1
 python-dotenv==1.0.1
 
 # Database & Vector Store
-psycopg2-binary==2.9.9
+psycopg2==2.9.12
 sqlalchemy==2.0.36
 alembic==1.14.0
 pgvector==0.3.6
-asyncpg==0.29.0
+asyncpg==0.31
 greenlet==3.1.1
 
 # Utilities
